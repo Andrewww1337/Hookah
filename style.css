@@ -21,6 +21,9 @@ body {
 .podZag {
   line-height: 1.5;
 }
+.ots {
+  margin-bottom: 1vh;
+}
 .bbody {
   background-image: url("XXXL.jfif");
   height: 100vh;
