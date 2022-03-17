@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: black;
+}
+.num {
+  margin-top: 1vh;
+}
+.logo {
+  text-align: center;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin-top: 2vh;
+}
+.zag {
+  text-align: center;
+  line-height: 2.5;
+}
+.podZag {
+  line-height: 1.5;
+}
+.bbody {
+  background-image: url("XXXL.jfif");
+  height: 100vh;
+  width: 90vw;
+  margin: 10px;
+  background-size: cover;
+  margin-left: auto;
+  margin-right: auto;
+}
+.fLogo {
+  width: 7vw;
+  height: auto;
+}
+.panel {
+  border-radius: 5px;
+  background-color: rgba(197, 208, 218, 0.267);
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 5vh;
+}
+.center {
+  border-radius: 5px;
+  background-color: rgba(197, 208, 218, 0.267);
+
+  margin-bottom: 5vh;
+}
+.ziz {
+  display: flex;
+  flex: auto;
+  height: 5vh;
+  width: auto;
+  justify-content: center;
+  text-align: center;
+}
+.centerTwo {
+  border-radius: 5px;
+  background-color: rgba(197, 208, 218, 0.267);
+  text-align: center;
+  margin-bottom: 5vh;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 50vh;
+}
+.icon {
+  display: flex;
+  flex: auto;
+  justify-content: space-around;
+  width: 100%;
+  height: 30vh;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.flex {
+  display: flex;
+  flex-direction: column;
+  flex: auto;
+  height: 20vh;
+  width: 20vw;
+  justify-content: center;
+}
+.sFlex {
+  display: flex;
+  flex-direction: column;
+  flex: auto;
+  height: auto;
+  width: auto;
+}
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  border-radius: 5px;
+  background-color: rgba(197, 208, 218, 0.267);
+}
+p {
+  font-size: 100%;
+}
+.bigSize {
+  font-size: 150%;
+}
