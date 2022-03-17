@@ -96,8 +96,8 @@ body {
   background-color: rgba(197, 208, 218, 0.267);
 }
 p {
-  font-size: 100%;
+  font-size: 14px;
 }
 .bigSize {
-  font-size: 150%;
+  font-size: 18px;
 }
